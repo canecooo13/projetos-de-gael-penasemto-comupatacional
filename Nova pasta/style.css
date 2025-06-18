@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+
+img{
+   margin-left: 640px;
+   
+}
+
+blockquote{
+    text-align: center;
+}
+footer{
+    font-size: 18px;
+    text-align: center;
+    font-style: oblique;
+   color: azure;
+   
+  
+}
+h5{
+    color: gray;
+    font-weight: 800;
+}
+h4{
+    color: gray;
+    font-weight: 800;
+}
+
+div{background-color: }
+
+a{color: black;}
+
+
+
+
+p {
+    color: rgb(17, 16, 16) ;
+font-size: 20px;
+text-align: center;
+     }
+     
